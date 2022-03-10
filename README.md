@@ -1,8 +1,2 @@
 # BlinkingLabel
 
-fasdfad
-
-fdasfa'
-
-
-fdsafdf
